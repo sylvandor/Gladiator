@@ -1,0 +1,16 @@
+.game-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly; }
+
+.coord-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center; }
+  .coord-container > * {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px; }
+
+/*# sourceMappingURL=index.css.map */
